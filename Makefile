@@ -1,5 +1,5 @@
-DOCTYPE = OPSTN
-DOCNUMBER = 000
+DOCTYPE = TSTN
+DOCNUMBER = 001
 DOCNAME = $(DOCTYPE)-$(DOCNUMBER)
 
 tex = $(filter-out $(wildcard *acronyms.tex) , $(wildcard *.tex))
