@@ -1,7 +1,7 @@
-.. image:: https://img.shields.io/badge/opstn--000-lsst.io-brightgreen.svg
-   :target: https://opstn-000.lsst.io
-.. image:: https://travis-ci.com/lsst-ops/opstn-000.svg
-   :target: https://travis-ci.com/lsst-ops/opstn-000
+.. image:: https://img.shields.io/badge/tstn--001-lsst.io-brightgreen.svg
+   :target: https://tstn-001.lsst.io
+.. image:: https://travis-ci.com/lsst-tstn/tstn-001.svg
+   :target: https://travis-ci.com/lsst-tstn/tstn-001
 
 #############################################
 Proposal to conduct in-house CSC development.
@@ -15,8 +15,8 @@ This documents presents a proposal to, whenever possible, freeze external develo
 Links
 =====
 
-- Live drafts: https://opstn-000.lsst.io
-- GitHub: https://github.com/lsst-ops/opstn-000
+- Live drafts: https://tstn-001.lsst.io
+- GitHub: https://github.com/lsst-tstn/opstn-001
 
 Build
 =====
@@ -24,7 +24,7 @@ Build
 This repository includes lsst-texmf_ as a Git submodule.
 Clone this repository::
 
-    git clone --recurse-submodules https://github.com/lsst-ops/opstn-000
+    git clone --recurse-submodules https://github.com/lsst-tstn/tstn-001
 
 Compile the PDF::
 
