@@ -1,22 +1,22 @@
 .. image:: https://img.shields.io/badge/tstn--001-lsst.io-brightgreen.svg
    :target: https://tstn-001.lsst.io
-.. image:: https://travis-ci.com/lsst-tstn/tstn-001.svg
-   :target: https://travis-ci.com/lsst-tstn/tstn-001
+.. image:: https://github.com/lsst-tstn/tstn-001/workflows/CI/badge.svg
+   :target: https://github.com/lsst-tstn/tstn-001/actions/
 
 #############################################
 Proposal to conduct in-house CSC development.
 #############################################
 
-OPSTN-000
-=========
+TSTN-001
+========
 
-This documents presents a proposal to, whenever possible, freeze external development of CSCs from vendors and conduct in-house development using salobj instead. Even thought is may seen an increase of scope for the TSS software team, i is clear from our current experience that this would save the project more time in the near future. 
+This documents presents a proposal to, whenever possible, freeze external development of CSCs from vendors and conduct in-house development using salobj instead. Even thought is may seen an increase of scope for the TSS software team, i is clear from our current experience that this would save the project more time in the near future.
 
 Links
 =====
 
 - Live drafts: https://tstn-001.lsst.io
-- GitHub: https://github.com/lsst-tstn/opstn-001
+- GitHub: https://github.com/lsst-tstn/tstn-001
 
 Build
 =====
