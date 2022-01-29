@@ -10,7 +10,7 @@ Proposal to conduct in-house CSC development.
 TSTN-001
 ========
 
-This documents presents a proposal to, whenever possible, freeze external development of CSCs from vendors and conduct in-house development using salobj instead. Even thought is may seen an increase of scope for the TSS software team, i is clear from our current experience that this would save the project more time in the near future.
+This documents presents a proposal to, whenever possible, freeze external development of CSCs from vendors and conduct in-house development using salobj instead. Even though it may seem to be an increase of scope for the TSS software team, it is clear from our current experience that this will save the project more time in the near future.
 
 Links
 =====
